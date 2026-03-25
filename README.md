@@ -1,16 +1,50 @@
-## Hi there 👋
+👨‍💻 Abdelrahman Ibrahim
 
-<!--
-**Abdelrahman-Abdelaziz1/Abdelrahman-Abdelaziz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s Student in Data science at TU Darmstadt
+📍 Based in Germany
+💡 Interested in Data Science, Web Development, and IT Systems
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a motivated IT student with a strong interest in data-driven solutions and intelligent systems.
+I enjoy building projects that combine machine learning, data analysis, and real-world applications.
+
+Currently, I am looking for a Working Student or Internship opportunity in:
+
+Data Science
+Machine Learning
+IT / Networking
+🛠️ Technical Skills
+
+Programming:
+Python, Java, JavaScript
+
+Data & Machine Learning:
+Pandas, NumPy, scikit-learn, Data Analysis, EDA
+
+Databases:
+MySQL, PostgreSQL
+
+Tools & Technologies:
+Git, Linux, Power BI
+
+
+
+📊 Featured Projects
+🔹 AI-Driven Predictive Maintenance
+Built machine learning models to predict Remaining Useful Life (RUL)
+Worked with real-world datasets (turbofan engines & batteries)
+Deployed models on edge device (ESP8266)
+🔹 GMM Clustering & PCA Analysis
+Implemented Gaussian Mixture Model from scratch
+Applied PCA for dimensionality reduction
+Analyzed clustering performance across different dataset sizes
+🔹 Customer Behavior Analysis
+Cleaned and analyzed transactional data
+Performed SQL-based business analysis
+Built interactive dashboard using Power BI
+
+
+🌍 Let's Connect
+📧 Email: abdelrahman.foad2002@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/abdelrahman-ibrahim-fouad-abdelaziz-8a1b99204/
