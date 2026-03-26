@@ -14,19 +14,7 @@ Currently, I am looking for a Working Student or Internship opportunity in:
 Data Science
 Machine Learning
 IT / Networking
-🛠️ Technical Skills
 
-Programming:
-Python, Java, JavaScript
-
-Data & Machine Learning:
-Pandas, NumPy, scikit-learn, Data Analysis, EDA
-
-Databases:
-MySQL, PostgreSQL
-
-Tools & Technologies:
-Git, Linux, Power BI
 
 
 
