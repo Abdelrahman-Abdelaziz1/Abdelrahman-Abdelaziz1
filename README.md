@@ -23,10 +23,6 @@ IT / Networking
 Built machine learning models to predict Remaining Useful Life (RUL)
 Worked with real-world datasets (turbofan engines & batteries)
 Deployed models on edge device (ESP8266)
-🔹 GMM Clustering & PCA Analysis
-Implemented Gaussian Mixture Model from scratch
-Applied PCA for dimensionality reduction
-Analyzed clustering performance across different dataset sizes
 🔹 Customer Behavior Analysis
 Cleaned and analyzed transactional data
 Performed SQL-based business analysis
